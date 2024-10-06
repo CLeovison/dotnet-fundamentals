@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part1 - Strings\\Part1 - Strings.csproj": {}
+    "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part2 - Search Strings\\Part2 - Search Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part1 - Strings\\Part1 - Strings.csproj": {
+    "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part2 - Search Strings\\Part2 - Search Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part1 - Strings\\Part1 - Strings.csproj",
-        "projectName": "Part1 - Strings",
-        "projectPath": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part1 - Strings\\Part1 - Strings.csproj",
+        "projectUniqueName": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part2 - Search Strings\\Part2 - Search Strings.csproj",
+        "projectName": "Part2 - Search Strings",
+        "projectPath": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part2 - Search Strings\\Part2 - Search Strings.csproj",
         "packagesPath": "C:\\Users\\Leovison\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part1 - Strings\\obj\\",
+        "outputPath": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part2 - Search Strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leovison\\AppData\\Roaming\\NuGet\\NuGet.Config"
