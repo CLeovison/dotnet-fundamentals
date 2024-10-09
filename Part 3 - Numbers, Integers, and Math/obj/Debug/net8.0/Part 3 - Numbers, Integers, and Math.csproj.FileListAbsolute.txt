@@ -1,0 +1,15 @@
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\bin\Debug\net8.0\Part 3 - Numbers, Integers, and Math.exe
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\bin\Debug\net8.0\Part 3 - Numbers, Integers, and Math.deps.json
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\bin\Debug\net8.0\Part 3 - Numbers, Integers, and Math.runtimeconfig.json
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\bin\Debug\net8.0\Part 3 - Numbers, Integers, and Math.dll
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\bin\Debug\net8.0\Part 3 - Numbers, Integers, and Math.pdb
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\Part 3 - Numbers, Integers, and Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\Part 3 - Numbers, Integers, and Math.AssemblyInfoInputs.cache
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\Part 3 - Numbers, Integers, and Math.AssemblyInfo.cs
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\Part 3 - Numbers, Integers, and Math.csproj.CoreCompileInputs.cache
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\Part 3 - Numbers, Integers, and Math.sourcelink.json
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\Part 3 - Numbers, Integers, and Math.dll
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\refint\Part 3 - Numbers, Integers, and Math.dll
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\Part 3 - Numbers, Integers, and Math.pdb
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\Part 3 - Numbers, Integers, and Math.genruntimeconfig.cache
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 3 - Numbers, Integers, and Math\obj\Debug\net8.0\ref\Part 3 - Numbers, Integers, and Math.dll
