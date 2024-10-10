@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Part1_Strings
-build_property.ProjectDir = C:\Users\ITS\Desktop\dotnet-fundamentals\Part1 - Strings\
+build_property.ProjectDir = C:\Users\Leovison\Documents\dotnet-fundamentals\Part1 - Strings\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
