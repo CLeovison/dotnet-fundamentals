@@ -1,0 +1,15 @@
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\bin\Debug\net8.0\Part7-For.exe
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\bin\Debug\net8.0\Part7-For.deps.json
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\bin\Debug\net8.0\Part7-For.runtimeconfig.json
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\bin\Debug\net8.0\Part7-For.dll
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\bin\Debug\net8.0\Part7-For.pdb
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\Part7-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\Part7-For.AssemblyInfoInputs.cache
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\Part7-For.AssemblyInfo.cs
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\Part7-For.csproj.CoreCompileInputs.cache
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\Part7-For.sourcelink.json
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\Part7-For.dll
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\refint\Part7-For.dll
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\Part7-For.pdb
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\Part7-For.genruntimeconfig.cache
+C:\Users\ITS\Desktop\dotnet-fundamentals\Part 7 - For Loop\obj\Debug\net8.0\ref\Part7-For.dll
