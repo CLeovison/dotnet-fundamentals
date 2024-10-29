@@ -8,4 +8,5 @@
 <li>Part 5 - Branching, Ifs, and Conditional Logic</li>
 <li>Part 6 - Branching and While Loop</li>
 <li>Part 7 - For Loop</li>
+<li>Part 8 - List<T> and Collections of Data </li>
 </ul>
