@@ -1,0 +1,15 @@
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\bin\Debug\net8.0\Part8- List T and Collections of Data.exe
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\bin\Debug\net8.0\Part8- List T and Collections of Data.deps.json
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\bin\Debug\net8.0\Part8- List T and Collections of Data.runtimeconfig.json
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\bin\Debug\net8.0\Part8- List T and Collections of Data.dll
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\bin\Debug\net8.0\Part8- List T and Collections of Data.pdb
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\Part8- List T and Collections of Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\Part8- List T and Collections of Data.AssemblyInfoInputs.cache
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\Part8- List T and Collections of Data.AssemblyInfo.cs
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\Part8- List T and Collections of Data.csproj.CoreCompileInputs.cache
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\Part8- List T and Collections of Data.sourcelink.json
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\Part8- List T and Collections of Data.dll
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\refint\Part8- List T and Collections of Data.dll
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\Part8- List T and Collections of Data.pdb
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\Part8- List T and Collections of Data.genruntimeconfig.cache
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 8 - List T and Collections of Data\obj\Debug\net8.0\ref\Part8- List T and Collections of Data.dll

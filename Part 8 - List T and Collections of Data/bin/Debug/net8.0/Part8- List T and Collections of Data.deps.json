@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Part8- List T and Collections of Data/1.0.0": {
+        "runtime": {
+          "Part8- List T and Collections of Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part8- List T and Collections of Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
