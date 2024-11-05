@@ -1,0 +1,15 @@
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\bin\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.exe
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\bin\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.deps.json
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\bin\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.runtimeconfig.json
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\bin\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.dll
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\bin\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.pdb
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.AssemblyInfoInputs.cache
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.AssemblyInfo.cs
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.sourcelink.json
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.dll
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\refint\Part 9 - Arrays, Lists, Indexing, and Foreach.dll
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.pdb
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\Part 9 - Arrays, Lists, Indexing, and Foreach.genruntimeconfig.cache
+C:\Users\Leovison\Documents\dotnet-fundamentals\Part 9 - Array\obj\Debug\net8.0\ref\Part 9 - Arrays, Lists, Indexing, and Foreach.dll

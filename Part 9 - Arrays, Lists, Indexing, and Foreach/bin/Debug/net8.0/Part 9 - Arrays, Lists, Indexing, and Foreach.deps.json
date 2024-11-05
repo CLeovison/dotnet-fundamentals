@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Part 9 - Arrays, Lists, Indexing, and Foreach/1.0.0": {
+        "runtime": {
+          "Part 9 - Arrays, Lists, Indexing, and Foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part 9 - Arrays, Lists, Indexing, and Foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

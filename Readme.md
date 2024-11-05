@@ -9,4 +9,5 @@
 <li>Part 6 - Branching and While Loop</li>
 <li>Part 7 - For Loop</li>
 <li>Part 8 - List<T> and Collections of Data </li>
+<li>Part 9 - Arrays, Lists, Indexing, and Foreach</li>
 </ul>
