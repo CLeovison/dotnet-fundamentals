@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part 9 - Array\\Part 9 - Arrays, Lists, Indexing, and Foreach.csproj",
+      "projectUniqueName": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part 9 - Arrays, Lists, Indexing, and Foreach\\Part 9 - Arrays, Lists, Indexing, and Foreach.csproj",
       "projectName": "Part 9 - Arrays, Lists, Indexing, and Foreach",
-      "projectPath": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part 9 - Array\\Part 9 - Arrays, Lists, Indexing, and Foreach.csproj",
+      "projectPath": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part 9 - Arrays, Lists, Indexing, and Foreach\\Part 9 - Arrays, Lists, Indexing, and Foreach.csproj",
       "packagesPath": "C:\\Users\\Leovison\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part 9 - Array\\obj\\",
+      "outputPath": "C:\\Users\\Leovison\\Documents\\dotnet-fundamentals\\Part 9 - Arrays, Lists, Indexing, and Foreach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leovison\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
