@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 10 - Sorting and Searching Lists", "Part 10 - Sorting and Searching Lists.csproj", "{E7494F18-9FCC-4278-2BCB-A81E652758F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 11 - Language Integrated Query (LINQ)", "..\Part 11 - Language Integrated Query (LINQ)\Part 11 - Language Integrated Query (LINQ).csproj", "{99D4F671-4CA2-4F37-B17D-D27804E2C282}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{E7494F18-9FCC-4278-2BCB-A81E652758F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7494F18-9FCC-4278-2BCB-A81E652758F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7494F18-9FCC-4278-2BCB-A81E652758F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D4F671-4CA2-4F37-B17D-D27804E2C282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D4F671-4CA2-4F37-B17D-D27804E2C282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D4F671-4CA2-4F37-B17D-D27804E2C282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D4F671-4CA2-4F37-B17D-D27804E2C282}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

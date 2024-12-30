@@ -1,4 +1,7 @@
-﻿var numbers = new List<int> {1,2,4,7,5,6,3};
+﻿//Instead of using this, you can use List Generics and then pass the type that you want.
+// var numbers = new string[]{"Clark","Jerald","Zyrus"};
+
+var numbers = new List<int> {1,2,4,7,5,6,3};
 
 
 
